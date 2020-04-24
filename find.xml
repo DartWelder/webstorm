@@ -5,7 +5,6 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, !*.spec.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -24,7 +23,7 @@
     <mask>!*.spec.ts,</mask>
     <mask>*.sass</mask>
     <mask>*.scss</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>!*.html,*.pug</mask>
   </component>
 </application>
