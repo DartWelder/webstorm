@@ -34,9 +34,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ct" value="console.time('$var$')&#10;console.timeEnd('$var$')$end$" description="console.time" toReformat="false" toShortenFQNames="true">
+  <template name="ct" value="console.time('$var$')&#10;console.timeEnd('$var$')" description="console.time" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
