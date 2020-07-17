@@ -21,7 +21,7 @@
     <mask>!*.spec.ts,</mask>
     <mask>*.sass</mask>
     <mask>*.scss</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>!*.html,*.pug</mask>
   </component>
 </application>
