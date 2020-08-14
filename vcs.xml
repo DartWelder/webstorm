@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/boltunoreh/ficus-henry.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/just-website/VRt-test-task.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AE\Projects" />
