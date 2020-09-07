@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="pug" />
+      <option name="program" value="$USER_HOME$/AppData/Local/Yarn/Cache/v6/npm-pug-loader-2.4.0-18eebdda045d9c31c2856f1cc3ceb8d3df7ca49a-integrity/node_modules/pug-loader" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
