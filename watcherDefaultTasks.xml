@@ -13,10 +13,10 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/AppData/Local/Yarn/Cache/v6/npm-pug-loader-2.4.0-18eebdda045d9c31c2856f1cc3ceb8d3df7ca49a-integrity/node_modules/pug-loader" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/node_modules/pug/lib" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
+      <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
