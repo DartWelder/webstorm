@@ -20,8 +20,8 @@
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
     <mask>*.scss</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.sass</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>!*.html,*.pug</mask>
   </component>
 </application>
