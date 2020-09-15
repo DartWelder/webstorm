@@ -4,7 +4,14 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="SCSS" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
