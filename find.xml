@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.html,*.pug" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -23,7 +24,7 @@
     <mask>!*.spec.ts,</mask>
     <mask>*.sass</mask>
     <mask>*.scss</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>!*.html,*.pug</mask>
   </component>
 </application>
