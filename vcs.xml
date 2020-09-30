@@ -58,6 +58,14 @@
           <option name="url" value="https://github.com/mapbox/mapbox-gl-js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@lab.veeroute.com:aev/studio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.veeroute.com/aev/studio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AE\Projects" />
