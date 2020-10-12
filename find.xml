@@ -24,10 +24,10 @@
     <mask>!*.spec.ts,</mask>
     <mask>*.sass</mask>
     <mask>*.js</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.html</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.json</mask>
+    <mask>!*.html,*.pug</mask>
     <mask>*.scss</mask>
   </component>
 </application>
