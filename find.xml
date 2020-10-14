@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -23,7 +24,7 @@
     <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>!*.html,*.pug</mask>
-    <mask>*.scss</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
