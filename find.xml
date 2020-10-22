@@ -21,9 +21,9 @@
     <mask>*.sass</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
-    <mask>*.ts, !*.spec.ts</mask>
     <mask>*.scss</mask>
     <mask>!*.html,*.pug</mask>
+    <mask>*.ts, !*.spec.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
