@@ -24,7 +24,7 @@
     <mask>*.json</mask>
     <mask>*.hbs</mask>
     <mask>*.scss</mask>
-    <mask>*.ts, !*.spec.ts</mask>
     <mask>!*.html,*.pug</mask>
+    <mask>*.ts, !*.spec.ts</mask>
   </component>
 </application>
