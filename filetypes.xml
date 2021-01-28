@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="challenges-solutions.json" type="AUTO_DETECTED" />
       <mapping pattern="admin" type="Dockerfile" />
+      <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="main-theme.scss" type="PLAIN_TEXT" />
       <mapping ext="dokerfile" type="PLAIN_TEXT" />
