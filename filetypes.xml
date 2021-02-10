@@ -6,6 +6,7 @@
       <mapping pattern="customers" type="AUTO_DETECTED" />
       <mapping pattern="about-company" type="AUTO_DETECTED" />
       <mapping pattern="admin" type="Dockerfile" />
+      <mapping pattern="features" type="JSON" />
       <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern="veeroute-ai" type="Markdown" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
