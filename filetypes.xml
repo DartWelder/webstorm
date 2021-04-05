@@ -10,6 +10,7 @@
       <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern="veeroute-ai" type="Markdown" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="main-theme.scss" type="PLAIN_TEXT" />
       <mapping ext="dokerfile" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
