@@ -21,11 +21,11 @@
     <mask>*.sass</mask>
     <mask>*.html</mask>
     <mask>*.hbs</mask>
-    <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>!*.html,*.pug</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.liquid</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
