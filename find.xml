@@ -22,9 +22,9 @@
     <mask>*.hbs</mask>
     <mask>*.liquid</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
     <mask>!*.html,*.pug</mask>
     <mask>*.scss</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
