@@ -98,6 +98,10 @@
           <option name="url" value="git@lab.veeroute.com:cavalry/caravan-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.veeroute.com/tiv/mrsk-box-antifraud" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AE\Projects" />
