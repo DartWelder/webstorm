@@ -1,4 +1,11 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>

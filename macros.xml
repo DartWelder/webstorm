@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="change snake to kebab in file name">
+      <action id="RenameElement" />
+      <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
+      <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
