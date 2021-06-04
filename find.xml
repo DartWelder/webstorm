@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.liquid" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -20,7 +20,6 @@
     <mask>!*.spec.ts,</mask>
     <mask>*.html</mask>
     <mask>*.hbs</mask>
-    <mask>*.liquid</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>!*.html,*.pug</mask>
@@ -28,5 +27,6 @@
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.pug</mask>
     <mask>*.scss</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
