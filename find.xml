@@ -25,7 +25,7 @@
     <mask>*.sass</mask>
     <mask>*.liquid</mask>
     <mask>*.scss</mask>
-    <mask>*.ts, !*.spec.ts</mask>
     <mask>*.pug</mask>
+    <mask>*.ts, !*.spec.ts</mask>
   </component>
 </application>
