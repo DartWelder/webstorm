@@ -6,5 +6,11 @@
       <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="move file to the classes folder">
+      <action id="Move" />
+      <action id="$SelectAll" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
