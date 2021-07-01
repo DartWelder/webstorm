@@ -12,5 +12,11 @@
       <action id="EditorPaste" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="add interface postfix">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <typing text-keycode="46:0;73:0;78:0;84:0;69:0;82:0;70:0;65:0;67:0;69:0">.interface</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
