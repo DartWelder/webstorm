@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -22,12 +22,12 @@
     <mask>*.html</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
     <mask>!*.html,*.pug</mask>
     <mask>*.sass</mask>
     <mask>*.liquid</mask>
-    <mask>*.pug</mask>
     <mask>*.scss</mask>
+    <mask>*.pug</mask>
+    <mask>*.json</mask>
     <mask>*.ts, !*.spec.ts</mask>
   </component>
 </application>
