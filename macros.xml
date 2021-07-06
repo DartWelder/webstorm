@@ -18,5 +18,20 @@
       <typing text-keycode="46:0;73:0;78:0;84:0;69:0;82:0;70:0;65:0;67:0;69:0">.interface</typing>
       <shortuct text="ENTER" />
     </macro>
+    <macro name="create index.ts">
+      <action id="NewElementSamePlace" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="NewTypeScriptFile" />
+      <shortuct text="ENTER" />
+      <typing text-keycode="73:0;78:0;68:0;69:0;88:0">index</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
