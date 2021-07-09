@@ -23,9 +23,9 @@
     <mask>!*.html,*.pug</mask>
     <mask>*.sass</mask>
     <mask>*.liquid</mask>
-    <mask>*.pug</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.ts, !*.spec.ts</mask>
+    <mask>*.pug</mask>
   </component>
 </application>
