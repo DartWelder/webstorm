@@ -33,5 +33,11 @@
       <typing text-keycode="73:0;78:0;68:0;69:0;88:0">index</typing>
       <shortuct text="ENTER" />
     </macro>
+    <macro name="move to ./tests">
+      <action id="Move" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="84:0;69:0;83:0;84:0;83:0">tests</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
