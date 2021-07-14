@@ -39,5 +39,76 @@
       <typing text-keycode="84:0;69:0;83:0;84:0;83:0">tests</typing>
       <shortuct text="ENTER" />
     </macro>
+    <macro name="add index">
+      <shortuct text="shift control INSERT" />
+      <action id="NewElementSamePlace" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="NewTypeScriptFile" />
+      <shortuct text="ENTER" />
+      <typing text-keycode="73:0;78:0;68:0;69:0;88:0">index</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="add ui to action name">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeft" />
+      <typing text-keycode="85:1;73:0">Ui</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="add entities to action name">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeft" />
+      <typing text-keycode="69:1;78:0;84:0;73:0;84:0;73:0;69:0;83:0">Entities</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="add entities to selector">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="69:1;78:0;84:0;73:0;84:0;73:0;69:0;83:0">Entities</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="add ui to selector name">
+      <shortuct text="shift control F6" />
+      <action id="RenameElement" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRight" />
+      <typing text-keycode="85:1;73:0">Ui</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
