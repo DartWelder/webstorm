@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="asa" type="AUTO_DETECTED" />
       <mapping pattern="mathematical_core" type="AUTO_DETECTED" />
       <mapping pattern="challenges-solutions.json" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
