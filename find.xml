@@ -27,8 +27,8 @@
     <mask>*.ts, !*.spec.ts, !*.d.ts</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.ts, !*.spec.ts  *.d.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.pug</mask>
     <mask>*.ts, !*.spec.ts  !*.d.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
