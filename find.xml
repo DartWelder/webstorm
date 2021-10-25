@@ -3,24 +3,11 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.pug" />
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.ng</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtml</mask>
-    <mask>*.sht</mask>
-    <mask>*.shtm</mask>
-    <mask>*.ats</mask>
-    <mask>*.cjs</mask>
-    <mask>*.ts</mask>
     <mask>*.ts, !*.spec</mask>
     <mask>!*.spec</mask>
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
-    <mask>*.html</mask>
     <mask>*.hbs</mask>
-    <mask>*.js</mask>
     <mask>!*.html,*.pug</mask>
     <mask>*.sass</mask>
     <mask>*.liquid</mask>
@@ -31,5 +18,17 @@
     <mask>*.ts, !*.spec.ts  !*.d.ts</mask>
     <mask>*.scss</mask>
     <mask>*.pug</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
