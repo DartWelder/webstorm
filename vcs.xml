@@ -114,6 +114,10 @@
           <option name="url" value="https://lab.veeroute.com/aev/svg-to-ts-fork.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.veeroute.com/tech/docs-internal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AE\Projects" />
