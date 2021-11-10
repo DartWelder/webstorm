@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts, !*.spec.ts  !*.d.ts" />
     <mask>!*.spec</mask>
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
@@ -14,7 +15,6 @@
     <mask>*.ts, !*.spec.ts, !*.d.ts</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.ts, !*.spec.ts  *.d.ts</mask>
-    <mask>*.ts, !*.spec.ts  !*.d.ts</mask>
     <mask>*.scss</mask>
     <mask>*.ts, !*.spec</mask>
     <mask>*.xml</mask>
@@ -30,5 +30,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.pug</mask>
+    <mask>*.ts, !*.spec.ts  !*.d.ts</mask>
   </component>
 </application>
