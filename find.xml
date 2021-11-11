@@ -17,6 +17,7 @@
     <mask>*.ts, !*.spec.ts  *.d.ts</mask>
     <mask>*.scss</mask>
     <mask>*.ts, !*.spec</mask>
+    <mask>*.pug</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -29,7 +30,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.pug</mask>
     <mask>*.ts, !*.spec.ts  !*.d.ts</mask>
   </component>
 </application>
