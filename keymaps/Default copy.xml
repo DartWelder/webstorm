@@ -1,8 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
@@ -25,4 +29,5 @@
     <keyboard-shortcut first-keystroke="shift alt u" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
 </keymap>
