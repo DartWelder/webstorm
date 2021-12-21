@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project 'lss-web-tools'" />
+    <option name="defaultScopeName" value="Project 'lss-web-tools'" />
+    <option name="SEARCH_SCOPE" value="Project 'lss-web-tools'" />
     <mask>!*.spec</mask>
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
