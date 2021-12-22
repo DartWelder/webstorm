@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, !*.spec.ts, !*.d.ts" />
+    <option name="FILE_MASK" value="!*.html,*.pug" />
     <mask>!*.spec</mask>
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
@@ -30,7 +32,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>!*.html,*.pug</mask>
     <mask>*.ts, !*.spec.ts, !*.d.ts</mask>
+    <mask>!*.html,*.pug</mask>
   </component>
 </application>
