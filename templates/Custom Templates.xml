@@ -64,4 +64,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="per" value="const $var$ = performance.now();&#10;console.log('%c  $var$ ended  ', 'color: green; background: #222; font-size: 22px;', performance.now() - $var$)" description="performance" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
