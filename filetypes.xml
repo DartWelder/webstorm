@@ -13,6 +13,7 @@
       <mapping pattern="features" type="JSON" />
       <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern="cases" type="JSON" />
+      <mapping pattern="performer-points" type="JSON" />
       <mapping pattern="veeroute-ai" type="Markdown" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="main-theme.scss" type="PLAIN_TEXT" />
