@@ -8,6 +8,7 @@
       <mapping pattern="mappers" type="AUTO_DETECTED" />
       <mapping pattern="customers" type="AUTO_DETECTED" />
       <mapping pattern="asa" type="AUTO_DETECTED" />
+      <mapping pattern="performer-points.json" type="AUTO_DETECTED" />
       <mapping pattern="admin" type="Dockerfile" />
       <mapping pattern="features" type="JSON" />
       <mapping pattern="challenges-solutions" type="JSON" />
