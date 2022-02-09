@@ -5,6 +5,7 @@
       <mapping pattern="about-company" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="mathematical_core" type="AUTO_DETECTED" />
+      <mapping pattern="styles" type="AUTO_DETECTED" />
       <mapping pattern="mappers" type="AUTO_DETECTED" />
       <mapping pattern="customers" type="AUTO_DETECTED" />
       <mapping pattern="asa" type="AUTO_DETECTED" />
