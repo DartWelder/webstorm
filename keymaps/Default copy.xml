@@ -2,11 +2,16 @@
   <action id="EditorSortLines">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="ParameterInfo" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
