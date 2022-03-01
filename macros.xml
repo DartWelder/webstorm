@@ -110,5 +110,118 @@
       <typing text-keycode="85:1;73:0">Ui</typing>
       <shortuct text="ENTER" />
     </macro>
+    <macro name="rename transport file">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0;45:0;73:0;78:0;72:0;69:0;82:0;73:0;84:0;69:0;68:0">selected-inherited</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="asdasd">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="adsad">
+      <action id="RenameElement" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0">selected</typing>
+    </macro>
+    <macro name="sdasdas">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="asda">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="68:0;69:0;77:0;65:0;78:0;68:0">demand</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="GotoAction" />
+    </macro>
+    <macro name="asdsad">
+      <action id="RenameElement" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineStart" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="68:0;69:0;77:0;65:0;78:0;68:0">demand</typing>
+      <shortuct text="ENTER" />
+      <action id="GotoAction" />
+    </macro>
+    <macro name="sad">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="68:0;69:0;77:0;65:0;78:0;68:0">demand</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0;45:0;73:0;78:0;72:0;69:0;82:0;73:0;84:0;69:0;68:0">selected-inherited</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="dasd">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="80:0;69:0;82:0;70:0;79:0;82:0;77:0;69:0;82:0">performer</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0;45:0;73:0;78:0;72:0;69:0;82:0;73:0;84:0;69:0;68:0">selected-inherited</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="ad">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="sadsd">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="80:0;69:0;82:0;70:0;79:0;82:0;77:0;69:0;82:0">performer</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0;45:0;73:0;78:0;72:0;69:0;82:0;73:0;84:0;69:0;68:0">selected-inherited</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="sadas">
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;69:0;67:0;84:0;69:0;68:0">selected</typing>
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
