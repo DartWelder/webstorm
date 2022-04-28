@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.ts, !*.spec.ts, !*.d.ts" />
     <mask>!*.spec</mask>
     <mask>!*.spec,</mask>
     <mask>!*.spec.ts,</mask>
@@ -29,8 +29,8 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.ts, !*.spec.ts, !*.d.ts</mask>
     <mask>!*.html,*.pug</mask>
     <mask>*.scss</mask>
+    <mask>*.ts, !*.spec.ts, !*.d.ts</mask>
   </component>
 </application>
