@@ -126,6 +126,10 @@
           <option name="url" value="https://lab.veeroute.com/development/lss-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://lab.veeroute.com/tiv/mrsk-box-antifraud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AE\Projects" />
