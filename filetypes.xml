@@ -2,18 +2,18 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="challenges-solutions.json" type="AUTO_DETECTED" />
+      <mapping pattern="customers" type="AUTO_DETECTED" />
       <mapping pattern="about-company" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping pattern="asa" type="AUTO_DETECTED" />
       <mapping pattern="mathematical_core" type="AUTO_DETECTED" />
+      <mapping pattern="performer-points.json" type="AUTO_DETECTED" />
       <mapping pattern="styles" type="AUTO_DETECTED" />
       <mapping pattern="mappers" type="AUTO_DETECTED" />
-      <mapping pattern="customers" type="AUTO_DETECTED" />
-      <mapping pattern="asa" type="AUTO_DETECTED" />
-      <mapping pattern="performer-points.json" type="AUTO_DETECTED" />
       <mapping pattern="admin" type="Dockerfile" />
       <mapping pattern="features" type="JSON" />
-      <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern="cases" type="JSON" />
+      <mapping pattern="challenges-solutions" type="JSON" />
       <mapping pattern="performer-points" type="JSON" />
       <mapping pattern="veeroute-ai" type="Markdown" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
