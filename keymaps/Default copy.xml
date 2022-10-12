@@ -2,6 +2,7 @@
   <action id="EditorSortLines">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
