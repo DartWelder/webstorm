@@ -9,6 +9,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="IntentionActionAsAction_com.intellij.json.intentions.JsonSortPropertiesIntention">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="ParameterInfo" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -16,6 +19,7 @@
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="QuickImplementations" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
